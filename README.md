@@ -1,15 +1,7 @@
 # Jien Huang
 
-<h2>:wave: About Me</h2>
-Hello, I'm **<font color="#F31199">Senior DevOps Engineer</font>**!
+Hello, I'm **<font color="#F31199">Senior DevOps Engineer</font>**
  with 10+ years of experience designing, automating, and operating large-scale cloud platforms in production environments. Passionate about improving reliability, developer productivity, security, and cost efficiency through infrastructure as code, GitOps, and DevSecOps practices. Detail-oriented, organized, and meticulous with a focus on enabling teams to deliver software faster and more safely. :facepunch:
-
-<h2>:clipboard: Responsibilities</h2>
-- **Platform Engineering**: Leading multi-region Kubernetes platforms (EKS), developing Internal Developer Platforms (IDP), and standardizing Infrastructure-as-Code with Terraform, reducing provisioning time from days to minutes.
-- **CI/CD & GitOps**: Implementing CI/CD pipelines using GitHub Actions and ArgoCD, championing GitOps for infrastructure and application delivery, reducing deployment incidents by 85%.
-- **Reliability & Observability**: Building SLI/SLO frameworks and observability initiatives with Prometheus, Grafana, Loki, and ELK, improving MTTD and platform reliability.
-- **Security & Compliance**: Integrating DevSecOps controls into pipelines, developing centralized secrets management with Vault, and designing security guardrails with OPA and AWS IAM.
-- **FinOps & Cost Optimization**: Executing cost reduction strategies achieving 30% annual savings, building chargeback models, and balancing reliability with cost efficiency.
 
 <h2>:sunglasses: My Skills</h2>
 <table align="center">
