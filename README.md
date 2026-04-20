@@ -1,7 +1,8 @@
-# Jien Huang
+<img src="https://skillicons.dev/icons?i=kubernetes" width="25" height="25" alt="kubernetes" /> <img src="https://skillicons.dev/icons?i=terraform" width="25" height="25" alt="terraform" /> # Jien Huang 
+ <img src="https://skillicons.dev/icons?i=aws" width="25" height="25" alt="aws" /> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="25" height="25" alt="python" />
 
 Hello, I'm **<font color="#F31199">Senior DevOps Engineer</font>**
- with 10+ years of experience designing, automating, and operating large-scale cloud platforms in production environments. Passionate about improving reliability, developer productivity, security, and cost efficiency through infrastructure as code, GitOps, and DevSecOps practices. Detail-oriented, organized, and meticulous with a focus on enabling teams to deliver software faster and more safely. :facepunch:
+ with 10+ years of experience designing, automating, and operating large-scale cloud platforms in production environments. Passionate about improving reliability, developer productivity, security, and cost efficiency through infrastructure as code, GitOps, and DevSecOps practices. Detail-oriented, organized, and meticulous with a focus on enabling teams to deliver software faster and more safely.
 
 <h2>:sunglasses: My Skills</h2>
 <table align="center">
@@ -39,11 +40,11 @@ Hello, I'm **<font color="#F31199">Senior DevOps Engineer</font>**
       <br>Terraform
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=helm" width="45" height="45" alt="helm" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="45" height="45" alt="helm" />
       <br>Helm
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=argocd" width="45" height="45" alt="argocd" />
+      <img src="https://avatars.githubusercontent.com/u/30269780?s=48&v=4" width="45" height="45" alt="argocd" />
       <br>ArgoCD
     </td>
   </tr>
@@ -61,15 +62,15 @@ Hello, I'm **<font color="#F31199">Senior DevOps Engineer</font>**
       <br>Elasticsearch
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=datadog" width="45" height="45" alt="datadog" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="45" height="45" alt="datadog" />
       <br>Datadog
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vault" width="45" height="45" alt="vault" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" width="45" height="45" alt="vault" />
       <br>Vault
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=opa" width="45" height="45" alt="opa" />
+      <img src="https://avatars.githubusercontent.com/u/21058952?s=48&v=4" width="45" height="45" alt="opa" />
       <br>OPA
     </td>
     <td align="center" width="90">
